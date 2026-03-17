@@ -37,6 +37,8 @@ namespace MyNamespace
 
             double mnozenie = liczba1 * liczba2;
             Console.WriteLine($"Mnożenie: {liczba1} * {liczba2} = {mnozenie}");
+            
+            //Dzielenie
         }
     }
 }
