@@ -1,0 +1,15 @@
+C:\Users\barte\RiderProjects\apbd-cw1-git-s33879\bin\Debug\net10.0\apbd-cw1-git-s33879.exe
+C:\Users\barte\RiderProjects\apbd-cw1-git-s33879\bin\Debug\net10.0\apbd-cw1-git-s33879.deps.json
+C:\Users\barte\RiderProjects\apbd-cw1-git-s33879\bin\Debug\net10.0\apbd-cw1-git-s33879.runtimeconfig.json
+C:\Users\barte\RiderProjects\apbd-cw1-git-s33879\bin\Debug\net10.0\apbd-cw1-git-s33879.dll
+C:\Users\barte\RiderProjects\apbd-cw1-git-s33879\bin\Debug\net10.0\apbd-cw1-git-s33879.pdb
+C:\Users\barte\RiderProjects\apbd-cw1-git-s33879\obj\Debug\net10.0\apbd-cw1-git-s33879.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barte\RiderProjects\apbd-cw1-git-s33879\obj\Debug\net10.0\apbd-cw1-git-s33879.AssemblyInfoInputs.cache
+C:\Users\barte\RiderProjects\apbd-cw1-git-s33879\obj\Debug\net10.0\apbd-cw1-git-s33879.AssemblyInfo.cs
+C:\Users\barte\RiderProjects\apbd-cw1-git-s33879\obj\Debug\net10.0\apbd-cw1-git-s33879.csproj.CoreCompileInputs.cache
+C:\Users\barte\RiderProjects\apbd-cw1-git-s33879\obj\Debug\net10.0\apbd-cw1-git-s33879.sourcelink.json
+C:\Users\barte\RiderProjects\apbd-cw1-git-s33879\obj\Debug\net10.0\apbd-cw1-git-s33879.dll
+C:\Users\barte\RiderProjects\apbd-cw1-git-s33879\obj\Debug\net10.0\refint\apbd-cw1-git-s33879.dll
+C:\Users\barte\RiderProjects\apbd-cw1-git-s33879\obj\Debug\net10.0\apbd-cw1-git-s33879.pdb
+C:\Users\barte\RiderProjects\apbd-cw1-git-s33879\obj\Debug\net10.0\apbd-cw1-git-s33879.genruntimeconfig.cache
+C:\Users\barte\RiderProjects\apbd-cw1-git-s33879\obj\Debug\net10.0\ref\apbd-cw1-git-s33879.dll
