@@ -39,8 +39,6 @@ namespace MyNamespace
             Console.WriteLine($"Mnożenie: {liczba1} * {liczba2} = {mnozenie}");
             
             //Dzielenie
-            
-            //Dodanie max
         }
     }
 }
